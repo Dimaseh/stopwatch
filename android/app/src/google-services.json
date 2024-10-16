@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041733017937",
+    "project_id": "flutter-kelompok",
+    "storage_bucket": "flutter-kelompok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041733017937:android:1f3a301bfb3fc4e9a57370",
+        "android_client_info": {
+          "package_name": "com.company.tugas_kelompok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySVRl1MjFJCjHaju-zl9SB-nFqYSMz_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
